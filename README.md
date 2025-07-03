@@ -4,9 +4,13 @@
   <img height="400" src="https://i.imgur.com/epxN6Eo.jpeg"  />
 </div>
 
-<p align="center">Hobbyist selfhoster with a focus on independence and autonomy from external solutions</p>
+<p align="left"></p>
 
-<p align="center">Techstack</p>
+<h4 align="center">Hobbyist selfhoster with a focus on independence and autonomy from external solutions</h4>
+
+<p align="left"></p>
+
+<h4 align="center">Techstack</h4>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
